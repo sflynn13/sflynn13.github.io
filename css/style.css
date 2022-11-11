@@ -56,6 +56,10 @@ img {
   height: auto;
 }
 
+.p {
+  color: #432818
+}
+
 .wrapper {
     max-width: 1150px;
     margin: auto;
